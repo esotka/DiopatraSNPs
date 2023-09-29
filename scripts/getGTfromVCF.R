@@ -25,7 +25,7 @@ colnames(out) = meta$'New Code'[match(colnames(out),meta$plateID)]
 out2 = out[,!is.na(colnames(out))] # blank
 out2 = out2[,!colnames(out2)=="CHHS08"] # duplicate
 out2 = out2[,!colnames(out2)=="CHHS18"] # duplicate
-write.table(out,"data/diop_90perc_genome.95perc.GT_noNAs.txt",sep="\t",quote=F)
+write.table(out2,"data/diop_80perc_genome.95perc.GT_noNAs.txt",sep="\t",quote=F)
 
 
 
