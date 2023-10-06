@@ -1,5 +1,5 @@
 new("snmfProject", snmfProject.file = "dat.str.snmfProject", 
-    projDir = "/Users/sotkae/Desktop/ziegler/DiopatraSNPs/data/", 
+    projDir = "data/", 
     snmfDir = "dat.str.snmf/", input.file = "dat.str.geno", runs = list(), 
     K = c(2L, 3L, 4L, 5L, 6L, 7L, 8L, 9L, 10L, 2L, 3L, 4L, 5L, 
     6L, 7L, 8L, 9L, 10L, 2L, 3L, 4L, 5L, 6L, 7L, 8L, 9L, 10L, 

@@ -10,15 +10,16 @@ loc <- colnames(out2)
 meta <- read_xlsx("data/IndMeta_Final.xlsx")
 meta <- meta[match(inds,meta$'New Code'),] # sort to match the matrix
 meta$pops = substr(inds,1,4)
-write.table(out2,file="data/dat.str",col.names = F, row.names = F,quote = F)
-struct2geno("data/dat.str", ploidy=2, FORMAT = 1)
 
-project = NULL
-project = snmf("data/dat.str.geno", 
-               K=2:10,
-               entropy = TRUE,
-               repetitions = 10,
-               project = "new") 
+### run once
+#write.table(out2,file="data/dat.str",col.names = F, row.names = F,quote = F)
+#struct2geno("data/dat.str", ploidy=2, FORMAT = 1)
+#project = NULL
+#project = snmf("data/dat.str.geno", 
+#               K=2:10,
+#               entropy = TRUE,
+#               repetitions = 10,
+#               project = "new") 
 project = load.snmfProject("data/dat.str.snmfProject")
 pdf("output/snmf_cross-val.pdf")
 plot(project, col = "blue", pch = 19, cex = 1.2)
@@ -56,7 +57,7 @@ endLine <- as.vector(tapply((1:nrow(qmatrix)),pop_order2,max))
 segments(x0=endLine,y0=1,x1=endLine,y1=1.1,col="black",lwd=2)
 meanPop <- as.vector(tapply((1:length(pop_order2)),pop_order2,mean))
 text(levels(pop_order2),x=meanPop,y=1.07,cex=0.5,srt=90)
-text(c("FlSB14","NcFR10","NcFR12","CHHS26"),x=(1:nrow(qmatrix))[match(c("FlSB14","NcFR10","NcFR12","CHHS26"),meta2$'New Code')],
+text(c("FlSB10","NcFR10","CHHS26"),x=(1:nrow(qmatrix))[match(c("FlSB10","NcFR10","CHHS26"),meta2$'New Code')],
         y=-0.07,cex=.3,srt=90)
 #mtext("*",at=(1:nrow(qmatrix))[meta2$'New Code'%in%c("FlSB14","NcFR10","NcFR12")],side=1,cex=2,line=.5)
 dev.off()
