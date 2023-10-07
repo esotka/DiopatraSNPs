@@ -21,7 +21,7 @@ scores = data.frame(scores[,c("pop","PC1","PC2")],
                     xbar1 = xbar1[match(scores$pop,names(xbar1))],
                     xbar2 = xbar2[match(scores$pop,names(xbar2))])
 cols <- brewer.pal(n = length(unique(scores$pop)), name = "Set1")
-#(((pc$sdev)^2)/sum((pc$sdev)^2))*100
+print(head((((pc$sdev)^2)/sum((pc$sdev)^2))*100))
 
 p2 <- ggplot(scores, aes(x=PC1, y=PC2, colour=pop))+
   geom_point(size=2, alpha = 0.5)+
@@ -31,7 +31,7 @@ p2 <- ggplot(scores, aes(x=PC1, y=PC2, colour=pop))+
     geom_segment(aes(x=PC1, y=PC2, xend=xbar1, yend=xbar2, colour = pop))+
   ggtitle("All Sampling Locations")+
   theme_classic()+
-  labs(y= "PC2 (6.86%)", x= "PC1 (16.77%)", colour = "Sampled Populations")
+  labs(y= "PC2 (6.8%)", x= "PC1 (16.7%)", colour = "Sampled Populations")
 
 
 #find sample IDs for outliers
