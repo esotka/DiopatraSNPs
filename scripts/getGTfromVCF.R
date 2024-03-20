@@ -1,5 +1,6 @@
 library(vcfR)
-vcf = read.vcfR("data/diop_80perc_genome.95perc.recode.vcf.gz")
+rm(list=ls())
+vcf = read.vcfR("data/diop_90perc_genome.95perc.recode.vcf.gz")
 gt2 <- extract.gt(vcf,return.alleles=F)
 
 gt2[gt2=="0/0"] = 0
@@ -20,13 +21,21 @@ colnames(out) <- substr(colnames(gt2),1,3)
 rownames(out) <- rownames(gt2)
 
 library(readxl)
-meta <- read_xlsx("data/IndMeta_Final.xlsx")
+meta <- read_xlsx("data/Revised Diop Meta.xlsx")
 colnames(out) = meta$'New Code'[match(colnames(out),meta$plateID)]
 out2 = out[,!is.na(colnames(out))] # blank
 out2 = out2[,!colnames(out2)=="CHHS08"] # duplicate
 out2 = out2[,!colnames(out2)=="CHHS18"] # duplicate
-write.table(out2,"data/diop_80perc_genome.95perc.GT_noNAs.txt",sep="\t",quote=F)
+write.table(out2,"data/diop_90perc_genome.95perc.GT_noNAs.txt",sep="\t",quote=F)
 
+meta2 = meta[match(colnames(out2),meta$'New Code'),c(1,5:10,13:15)]
+write.csv(meta2,"data/231ind_meta.csv",row.names=F)
 
+## modify vcf names
 
-
+vcf2 = vcf
+colnames(vcf2@gt)[-1] = substr(colnames(vcf2@gt)[-1],1,3)
+#toInclude = colnames(vcf2@gt)[-1]%in%meta2$plateID #c("TRUE",
+vcf3 = vcf2[,c(1,match(meta2$plateID,colnames(vcf2@gt)))]
+colnames(vcf3@gt) = c("FORMAT",meta2$'New Code'[match(colnames(vcf3@gt)[-1],meta2$plateID)])
+write.vcf(vcf3,"data/diop_231ind_3162snp.vcf.gz")

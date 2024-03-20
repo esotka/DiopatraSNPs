@@ -3,18 +3,20 @@ rm(list=ls())
 library(ggplot2)
 library(readxl)
 library(RColorBrewer)
-dat <- read.delim("data/diop_90perc_genome.95perc.GT_noNAs.txt",sep="\t") 
-meta = read_xlsx("data/Revised Diop Meta.xlsx")
-colnames(dat) = meta$'New Code'[match(colnames(dat),meta$plateID)]
-dat = dat[,!is.na(colnames(dat))]
-meta_sub = meta[match(colnames(dat),meta$'New Code'),]
-meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlAM"] = "Amelia Island"
-meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlFP"] = "Fort Pierce"
-meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlSB"] = "St Theresa Beach"
+dat <- read.delim("data/diop_231ind_3162snp.GT.txt",sep="\t") 
+meta_sub = read.csv("data/231ind_meta.csv")
+#meta = read_xlsx("data/Revised Diop Meta.xlsx")
+#colnames(dat) = meta$'New Code'[match(colnames(dat),meta$plateID)]
+#dat = dat[,!is.na(colnames(dat))]
+#meta_sub = meta[match(colnames(dat),meta$'New Code'),]
+#meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlAM"] = "Amelia Island"
+#meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlFP"] = "Fort Pierce"
+#meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlSB"] = "St Theresa Beach"
 
 pc <- prcomp(t(dat))
 scores <- data.frame(pc$x) #scores for all individuals through all PCs
-scores = data.frame(pop = meta_sub$State,scores)
+scores = data.frame(pop = factor(meta_sub$State),scores)
+scores$pop = factor(scores$pop,levels=levels(scores$pop)[c(3,4,8,5,6,1,2,7)])
 xbar1 = tapply(scores$PC1,scores$pop,mean)
 xbar2 = tapply(scores$PC2,scores$pop,mean)
 scores = data.frame(scores[,c("pop","PC1","PC2")],
