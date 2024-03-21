@@ -1,0 +1,6 @@
+new("snmfClass", directory = "K4/run5/", snmfClass.file = "diop_233ind_3162snp.str_r5.4.snmfClass", 
+    K = 4L, run = 5L, CPU = 1L, seed = 1092404509L, alpha = 10, 
+    percentage = 0.05, I = 0L, iterations = 200L, entropy = TRUE, 
+    tolerance = 1e-05, crossEntropy = 0.279363477135691, ploidy = 2L, 
+    Q.input.file = "", Q.output.file = "diop_233ind_3162snp.str_r5.4.Q", 
+    G.output.file = "diop_233ind_3162snp.str_r5.4.G")

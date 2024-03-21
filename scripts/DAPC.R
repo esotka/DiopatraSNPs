@@ -1,10 +1,11 @@
 #DAPC
 library(adegenet)
 rm(list=ls())
-dat = read.delim("data/diop_80perc_genome.95perc.GT_noNAs.txt")
-meta <- read_xlsx("data/IndMeta_Final.xlsx")
-meta = meta[match(colnames(dat),meta$'New Code'),]
-meta$pops = substr(meta$'New Code',1,4)
+dat = read.delim("data/diop_233ind_3162snp.GT.txt")
+meta = read.csv("data/233ind_meta.csv")
+#meta <- read_xlsx("data/IndMeta_Final.xlsx")
+#meta = meta[match(colnames(dat),meta$'New Code'),]
+meta$pops = substr(meta$New.Code,1,4)
 pop_order = factor(meta$pops) # by pop
 levels(pop_order)[levels(pop_order)=="SHLS"] <- "SCSH"
 levels(pop_order)[levels(pop_order)=="SHHS"] <- "SCSH"
@@ -31,7 +32,7 @@ out_tr = out_tr[order(pop_order),]
 five <- find.clusters(out_tr, n.clust = 5,n.pca=100, n.da=5)#chose to keep 200 PCs, no 
 dapc1 <- dapc(out_tr, five$grp,n.pca=150, n.da=5)
 mycols <- c("black","purple","green","orange","red","blue")
-
+pdf("output/dapc.pdf",width=8,height=5)
 scatter(dapc1, posi.da = "bottomright", posi.leg = "bottomleft", bg ="white", pch = 20, cell=0, cstar = 0, col= mycols, solid = 0.4, cex=3, clab = 0, leg = TRUE, txt.leg = paste("Cluster", 1:5))
 predict_clusters = predict(dapc1,out_tr)
 fig = barplot(t(predict_clusters$posterior),col=mycols,border="NA",axisnames=F,ylim=c(0,1.1), space= c(0,0))
@@ -41,3 +42,4 @@ xmax = tapply(fig,sort(pop_order),max)+.6
 segments(xmax,0,xmax,1,lwd=4,col="black")
 
 print(predict_clusters$posterior[predict_clusters$posterior[,5]==1,])
+dev.off()

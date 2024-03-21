@@ -5,10 +5,10 @@
 #library(ggplot2)
 library(readxl)
 rm(list=ls())
-snp <- read.delim("diop_90perc_genome.95perc.GT_noNAs.txt",sep="\t") 
-meta = read_xlsx("./Revised Diop Meta.xlsx")
-colnames(snp) = meta$'New Code'[match(colnames(snp),meta$plateID)]
-snp = snp[,!is.na(colnames(snp))]
+snp <- read.delim("data/diop_233ind_3162snp.GT.txt",sep="\t") 
+#meta = read_xlsx("./Revised Diop Meta.xlsx")
+#colnames(snp) = meta$'New Code'[match(colnames(snp),meta$plateID)]
+#snp = snp[,!is.na(colnames(snp))]
 #snp = snp[,!colnames(snp)%in%c("NA.","CHHS18","CHHS08")]
 
 snp <- t(snp)# need col = loci; row = ind

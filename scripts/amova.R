@@ -3,10 +3,8 @@
 library(pegas)
 library(readxl)
 rm(list=ls())
-meta = read_xlsx("data/phist_erik/Revised Diop Meta.xlsx")
-dat <- read.delim('data/phist_erik/diop_90perc_genome.95perc.GT_noNAs.txt',header=T)
-colnames(dat) = meta$'New Code'[match(colnames(dat),meta$plateID)]
-dat = dat[,!is.na(colnames(dat))]
+meta = read.csv("data/233ind_meta.csv")
+dat <- read.delim('data/diop_233ind_3162snp.GT.txt',header=T)
 inds <- colnames(dat)
 
 pop = substr(inds,1,4)

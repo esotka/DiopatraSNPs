@@ -3,15 +3,8 @@ rm(list=ls())
 library(ggplot2)
 library(readxl)
 library(RColorBrewer)
-dat <- read.delim("data/diop_231ind_3162snp.GT.txt",sep="\t") 
-meta_sub = read.csv("data/231ind_meta.csv")
-#meta = read_xlsx("data/Revised Diop Meta.xlsx")
-#colnames(dat) = meta$'New Code'[match(colnames(dat),meta$plateID)]
-#dat = dat[,!is.na(colnames(dat))]
-#meta_sub = meta[match(colnames(dat),meta$'New Code'),]
-#meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlAM"] = "Amelia Island"
-#meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlFP"] = "Fort Pierce"
-#meta_sub$State[substr(meta_sub$'New Code',1,4)=="FlSB"] = "St Theresa Beach"
+dat <- read.delim("data/diop_233ind_3162snp.GT.txt",sep="\t") 
+meta_sub = read.csv("data/233ind_meta.csv")
 
 pc <- prcomp(t(dat))
 scores <- data.frame(pc$x) #scores for all individuals through all PCs

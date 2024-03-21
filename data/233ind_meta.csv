@@ -1,0 +1,234 @@
+plateID,New Code,Pop Defined,State,State Name,Pop Names,EstuaryLocal,mtHaplotype,mtHap Group,mtHap Subgroup
+A01,BRLS07,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+A02,BRLS13,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+A04,BRHS14,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+A05,VaWA26,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_1,B,B
+A06,CHLS01,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+A07,SHLS37,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+A08,BBHS01,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+A09,BBHS14,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+A10,FlAM08,Amelia Island,Amelia Island,Florida,Amelia Island,NA,NA,NA,NA
+A11,BRLS05,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+A12,VaWA06,Wachapreague,Virginia,Virginia,Wachapreague,NA,NA,NA,NA
+A14,SHLS15,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+A15,SHLS23,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+A16,BRHS10,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+A17,CHLS02,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+A18,BRLS17,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+A19,CHLS11,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+A20,FlSB10,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_7,A,A2
+B01,WBHS49,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+B03,VaWA13,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_1,B,B
+B08,NcMV07,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+B09,SHHS11,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+B11,BBHS15,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+B12,MaBH19,Barnstable Harbor,Massachusetts,Massachusetts,Barnstable Harbor,NA,NA,NA,NA
+F08,CHHS18,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+B14,BBHS20,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+B17,CHHS20,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+B18,NcMV35,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,NA,NA,NA
+B19,SHHS23,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+C01,CHHS22,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+C02,WBHS41,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+C04,CHLS12,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+C05,BRHS21,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+C06,SHLS30,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+C07,SHHS20,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+C11,CHHS14,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+C13,CHHS01,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+C15,BBHS09,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+C16,BBHS29,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+C17,WBHS32,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+C18,SHLS13,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+C19,FlAM07,Amelia Island,Amelia Island,Florida,Amelia Island,NA,Hap_1,B,B
+C20,BBHS07,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+D01,SHHS13,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+D02,CHHS15,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+D03,FlFP01,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,Hap_13,A,A2
+D04,CHLS09,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+D06,WBHS42,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+D07,FlFP02,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,Hap_13,A,A2
+D09,SHHS17,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+D10,NcBE01,Beaufort,North Carolina,North Carolina,Beaufort,NA,Hap_24,C,C
+D12,CHLS20,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+D14,BRHS17,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+D15,SHHS04,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+D17,CHHS06,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+D18,NcMV03,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,NA,NA,NA
+D19,WBHS63,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+E02,SHLS17,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+E03,BRHS07,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+E04,BBHS16,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+E05,BRHS06,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+E06,MaBH24,Barnstable Harbor,Massachusetts,Massachusetts,Barnstable Harbor,NA,NA,NA,NA
+E07,BRLS19,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+E08,BBHS19,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+E09,BBHS10,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+E10,FlAM01,Amelia Island,Amelia Island,Florida,Amelia Island,NA,NA,NA,NA
+E11,WBHS22,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+E12,BRHS13,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+E13,SHLS29,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+E15,FlFP08,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,Hap_13,A,A2
+E16,WBHS34,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+E17,NcMV24,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,NA,NA,NA
+E18,CHLS19,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+F02,BBHS11,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+F03,SHLS19,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+F04,FlAM03,Amelia Island,Amelia Island,Florida,Amelia Island,NA,NA,NA,NA
+F09,FlAM09,Amelia Island,Amelia Island,Florida,Amelia Island,NA,Hap_22,B,B
+F11,NcMV04,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+F12,BBHS23,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+F13,MaWF10,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+F14,NcMV31,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_14,B,B
+F15,BRLS03,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+F16,CHHS26,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+F17,WBHS25,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+F18,BRHS22,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+G01,WBHS18,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+G02,BRLS02,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+G03,FlSB20,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_3,A,A1
+G04,BBHS08,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+G05,BBHS12,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+G07,BRHS11,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+G08,SHHS24,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+G09,SHLS35,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+G11,BRLS11,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+G12,BBHS13,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+G14,CHLS26,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+G15,NcFR07,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,NA,NA,NA
+G16,SHHS26,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+G17,FlAM05,Amelia Island,Amelia Island,Florida,Amelia Island,NA,Hap_1,B,B
+G20,NcMV10,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+H01,CHLS06,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+H02,MaWF01,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,Hap_6,D,D
+H03,CHHS08,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+H04,NcMV20,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+H05,CHLS15,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+H06,WBHS04,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+H07,FlFP10,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,NA,NA,NA
+H08,SHHS02,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+H09,NcMV44,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,NA,NA,NA
+H10,CHLS08,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+H11,SHLS09,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+H12,FlFP04,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,NA,NA,NA
+H13,MaWF51,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+H14,NcMV21,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+H15,CHLS28,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+H16,BBHS03,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+H17,CHLS05,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+H18,CHHS47,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+H19,NcFR10,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,Hap_2,C,C
+H20,SHHS19,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+I04,WBHS33,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+I05,MaWF50,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+I07,CHLS07,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+I08,NcMV14,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+I09,CHHS40,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+I10,WBHS45,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+I11,SHHS25,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+I12,NcFR06,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,Hap_1,B,B
+I13,CHHS24,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+I14,CHHS13,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+I16,SHHS10,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+I18,BRHS16,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+I19,FlFP09,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,NA,NA,NA
+J01,CHLS16,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+J04,FlFP07,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,Hap_13,A,A2
+J06,CHHS29,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+J07,MaBH01,Barnstable Harbor,Massachusetts,Massachusetts,Barnstable Harbor,NA,Hap_6,D,D
+J08,BBHS18,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+J09,BRLS16,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+J10,NjRG35,Rutgers,New Jersey,New Jersey,Rutgers,NA,NA,NA,NA
+J12,VaWA24,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_1,B,B
+J13,CHLS25,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+J14,NcFR08,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,NA,NA,NA
+J15,BRLS01,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+J16,WBHS60,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+J17,WBHS15,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+J18,BRLS14,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+J19,MaWF53,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,Hap_6,D,D
+K02,BBHS27,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+K03,MaBH22,Barnstable Harbor,Massachusetts,Massachusetts,Barnstable Harbor,NA,NA,NA,NA
+K04,CHHS02,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+K06,NjRG34,Rutgers,New Jersey,New Jersey,Rutgers,NA,NA,NA,NA
+K07,BBHS02,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+K08,VaWA17,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_19,B,B
+K09,SHHS07,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+K10,FlFP05,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,Hap_13,A,A2
+K11,NcFR01,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,Hap_1,B,B
+K12,SHHS01,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+K13,MaWF13,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+K14,BRLS09,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+K15,FlSB05,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_3,A,A1
+K16,BRLS12,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+K18,FlSB02,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_3,A,A1
+K19,WBHS16,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+L01,BBHS31,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+L03,WBHS30,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+L04,SHLS28,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+L05,CHLS18,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+L06,MaBH20,Barnstable Harbor,Massachusetts,Massachusetts,Barnstable Harbor,NA,NA,NA,NA
+L07,SHLS03,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+L08,FlSB12,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,NA,NA,NA
+L10,WBHS50,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+L15,BRHS05,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+L16,WBHS43,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+L18,SHHS14,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+M01,BRLS20,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+M02,NjRG14,Rutgers,New Jersey,New Jersey,Rutgers,NA,NA,NA,NA
+M03,BRLS06,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+M04,BRHS19,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+M05,SHLS32,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+M07,NcFR11,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,NA,NA,NA
+M08,CHHS37,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+M09,CHHS52,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+M10,NcFR02,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,NA,NA,NA
+M11,WBHS29,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+M12,NcFR04,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,Hap_1,B,B
+M16,CHLS24,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+M17,BRHS04,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+N01,SHHS15,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+N02,FlSB01,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_5,A,A1
+N03,VaWA29,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_1,B,B
+N04,NcMV15,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+N05,BBHS32,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+N06,MaWF54,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+N07,CHLS13,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+N08,BBHS34,Bulls Bay,South Carolina,South Carolina,Bulls Bay,Coastal,NA,NA,NA
+N10,VaWA02,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_1,B,B
+N11,BRLS15,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+N13,CHHS03,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+N14,BRHS09,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+N15,WBHS38,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+N16,FlSB16,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_3,A,A1
+N18,CHHS05,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+N19,SHHS03,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
+O01,FlSB14,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_1,B,B
+O02,NcFR12,North River Estuary,North Carolina,North Carolina,North River Estuary,NA,Hap_3,A,A1
+O03,CHHS10,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+O04,VaWA03,Wachapreague,Virginia,Virginia,Wachapreague,NA,Hap_1,B,B
+O05,NcMV11,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+O06,FlAM04,Amelia Island,Amelia Island,Florida,Amelia Island,NA,Hap_1,B,B
+O07,NjRG16,Rutgers,New Jersey,New Jersey,Rutgers,NA,NA,NA,NA
+O10,MaDB04,Duxbury,Massachusetts,Massachusetts,Duxbury,NA,NA,NA,NA
+O11,NcMV43,Mitchells Village,North Carolina,North Carolina,Mitchells Village,NA,Hap_1,B,B
+O12,BRLS10,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+O13,CHHS16,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+O14,MaWF52,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+O15,CHHS48,Charleston Harbor (Seaward),South Carolina,South Carolina,Charleston Harbor,Coastal,NA,NA,NA
+O18,VaWA07,Wachapreague,Virginia,Virginia,Wachapreague,NA,NA,NA,NA
+P01,CHLS04,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+P03,MaWF56,Wellfleet,Massachusetts,Massachusetts,Wellfleet,NA,NA,NA,NA
+P04,WBHS44,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+P05,FlSB08,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,NA,NA,NA
+P06,WBHS36,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+P07,CHLS29,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+P08,FlSB17,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,NA,NA,NA
+P09,BRLS18,Broad River (Landward),South Carolina,South Carolina,Broad River,Inland,NA,NA,NA
+P10,FlFP03,Fort Pierce,Fort Pierce,Florida,Fort Pierce,NA,Hap_13,A,A2
+P11,SHLS26,St. Helena (Landward),South Carolina,South Carolina,St. Helena,Inland,NA,NA,NA
+P12,CHLS30,Charleston Harbor (Landward),South Carolina,South Carolina,Charleston Harbor,Inland,NA,NA,NA
+P15,WBHS56,Winyah Bay,South Carolina,South Carolina,Winyah Bay,Coastal,NA,NA,NA
+P17,BRHS20,Broad River (Seaward),South Carolina,South Carolina,Broad River,Coastal,NA,NA,NA
+P18,FlSB09,St. Teresa Beach,St. Teresa Beach,Florida,St. Teresa Beach,NA,Hap_8,A,A1
+P19,SHHS06,St. Helena (Seaward),South Carolina,South Carolina,St. Helena,Coastal,NA,NA,NA
