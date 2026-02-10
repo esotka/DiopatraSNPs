@@ -1,0 +1,234 @@
+accession	message	sample_name	sample_title	bioproject_accession	organism	isolate	breed	host	isolation_source	collection_date	geo_loc_name	tissue	age	altitude	biomaterial_provider	collected_by	depth	dev_stage	env_broad_scale	host_tissue_sampled	identified_by	lat_lon	sex	specimen_voucher	temp	description
+SAMN41062329	Successfully loaded	BRLS07			Diopatra cuprea	1			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062330	Successfully loaded	BRLS13			Diopatra cuprea	2			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062331	Successfully loaded	BRHS14			Diopatra cuprea	3			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062332	Successfully loaded	VaWA26			Diopatra cuprea	4			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062333	Successfully loaded	CHLS01			Diopatra cuprea	5			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062334	Successfully loaded	SHLS37			Diopatra cuprea	6			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062335	Successfully loaded	BBHS01			Diopatra cuprea	7			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062336	Successfully loaded	BBHS14			Diopatra cuprea	8			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062337	Successfully loaded	FlAM08			Diopatra cuprea	9			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062338	Successfully loaded	BRLS05			Diopatra cuprea	10			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062339	Successfully loaded	VaWA06			Diopatra cuprea	11			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062340	Successfully loaded	SHLS15			Diopatra cuprea	12			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062341	Successfully loaded	SHLS23			Diopatra cuprea	13			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062342	Successfully loaded	BRHS10			Diopatra cuprea	14			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062343	Successfully loaded	CHLS02			Diopatra cuprea	15			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062344	Successfully loaded	BRLS17			Diopatra cuprea	16			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062345	Successfully loaded	CHLS11			Diopatra cuprea	17			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062346	Successfully loaded	FlSB10			Diopatra cuprea	18			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062347	Successfully loaded	WBHS49			Diopatra cuprea	19			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062348	Successfully loaded	VaWA13			Diopatra cuprea	20			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062349	Successfully loaded	NcMV07			Diopatra cuprea	21			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062350	Successfully loaded	SHHS11			Diopatra cuprea	22			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062351	Successfully loaded	BBHS15			Diopatra cuprea	23			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062352	Successfully loaded	MaBH19			Diopatra cuprea	24			estuary	2009	USA:Barnstable Harbor Massachusetts	body														
+SAMN41062353	Successfully loaded	CHHS18			Diopatra cuprea	25			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062354	Successfully loaded	BBHS20			Diopatra cuprea	26			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062355	Successfully loaded	CHHS20			Diopatra cuprea	27			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062356	Successfully loaded	NcMV35			Diopatra cuprea	28			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062357	Successfully loaded	SHHS23			Diopatra cuprea	29			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062358	Successfully loaded	CHHS22			Diopatra cuprea	30			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062359	Successfully loaded	WBHS41			Diopatra cuprea	31			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062360	Successfully loaded	CHLS12			Diopatra cuprea	32			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062361	Successfully loaded	BRHS21			Diopatra cuprea	33			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062362	Successfully loaded	SHLS30			Diopatra cuprea	34			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062363	Successfully loaded	SHHS20			Diopatra cuprea	35			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062364	Successfully loaded	CHHS14			Diopatra cuprea	36			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062365	Successfully loaded	CHHS01			Diopatra cuprea	37			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062366	Successfully loaded	BBHS09			Diopatra cuprea	38			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062367	Successfully loaded	BBHS29			Diopatra cuprea	39			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062368	Successfully loaded	WBHS32			Diopatra cuprea	40			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062369	Successfully loaded	SHLS13			Diopatra cuprea	41			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062370	Successfully loaded	FlAM07			Diopatra cuprea	42			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062371	Successfully loaded	BBHS07			Diopatra cuprea	43			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062372	Successfully loaded	SHHS13			Diopatra cuprea	44			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062373	Successfully loaded	CHHS15			Diopatra cuprea	45			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062374	Successfully loaded	FlFP01			Diopatra cuprea	46			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062375	Successfully loaded	CHLS09			Diopatra cuprea	47			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062376	Successfully loaded	WBHS42			Diopatra cuprea	48			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062377	Successfully loaded	FlFP02			Diopatra cuprea	49			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062378	Successfully loaded	SHHS17			Diopatra cuprea	50			estuary	2009	USA:Beaufort North Carolina	body														
+SAMN41062379	Successfully loaded	NcBE01			Diopatra cuprea	51			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062380	Successfully loaded	CHLS20			Diopatra cuprea	52			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062381	Successfully loaded	BRHS17			Diopatra cuprea	53			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062382	Successfully loaded	SHHS04			Diopatra cuprea	54			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062383	Successfully loaded	CHHS06			Diopatra cuprea	55			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062384	Successfully loaded	NcMV03			Diopatra cuprea	56			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062385	Successfully loaded	WBHS63			Diopatra cuprea	57			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062386	Successfully loaded	SHLS17			Diopatra cuprea	58			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062387	Successfully loaded	BRHS07			Diopatra cuprea	59			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062388	Successfully loaded	BBHS16			Diopatra cuprea	60			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062389	Successfully loaded	BRHS06			Diopatra cuprea	61			estuary	2009	USA:Barnstable Harbor Massachusetts	body														
+SAMN41062390	Successfully loaded	MaBH24			Diopatra cuprea	62			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062391	Successfully loaded	BRLS19			Diopatra cuprea	63			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062392	Successfully loaded	BBHS19			Diopatra cuprea	64			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062393	Successfully loaded	BBHS10			Diopatra cuprea	65			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062394	Successfully loaded	FlAM01			Diopatra cuprea	66			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062395	Successfully loaded	WBHS22			Diopatra cuprea	67			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062396	Successfully loaded	BRHS13			Diopatra cuprea	68			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062397	Successfully loaded	SHLS29			Diopatra cuprea	69			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062398	Successfully loaded	FlFP08			Diopatra cuprea	70			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062399	Successfully loaded	WBHS34			Diopatra cuprea	71			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062400	Successfully loaded	NcMV24			Diopatra cuprea	72			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062401	Successfully loaded	CHLS19			Diopatra cuprea	73			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062402	Successfully loaded	BBHS11			Diopatra cuprea	74			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062403	Successfully loaded	SHLS19			Diopatra cuprea	75			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062404	Successfully loaded	FlAM03			Diopatra cuprea	76			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062405	Successfully loaded	FlAM09			Diopatra cuprea	77			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062406	Successfully loaded	NcMV04			Diopatra cuprea	78			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062407	Successfully loaded	BBHS23			Diopatra cuprea	79			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062408	Successfully loaded	MaWF10			Diopatra cuprea	80			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062409	Successfully loaded	NcMV31			Diopatra cuprea	81			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062410	Successfully loaded	BRLS03			Diopatra cuprea	82			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062411	Successfully loaded	CHHS26			Diopatra cuprea	83			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062412	Successfully loaded	WBHS25			Diopatra cuprea	84			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062413	Successfully loaded	BRHS22			Diopatra cuprea	85			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062414	Successfully loaded	WBHS18			Diopatra cuprea	86			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062415	Successfully loaded	BRLS02			Diopatra cuprea	87			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062416	Successfully loaded	FlSB20			Diopatra cuprea	88			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062417	Successfully loaded	BBHS08			Diopatra cuprea	89			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062418	Successfully loaded	BBHS12			Diopatra cuprea	90			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062419	Successfully loaded	BRHS11			Diopatra cuprea	91			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062420	Successfully loaded	SHHS24			Diopatra cuprea	92			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062421	Successfully loaded	SHLS35			Diopatra cuprea	93			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062422	Successfully loaded	BRLS11			Diopatra cuprea	94			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062423	Successfully loaded	BBHS13			Diopatra cuprea	95			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062424	Successfully loaded	CHLS26			Diopatra cuprea	96			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062425	Successfully loaded	NcFR07			Diopatra cuprea	97			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062426	Successfully loaded	SHHS26			Diopatra cuprea	98			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062427	Successfully loaded	FlAM05			Diopatra cuprea	99			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062428	Successfully loaded	NcMV10			Diopatra cuprea	100			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062429	Successfully loaded	CHLS06			Diopatra cuprea	101			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062430	Successfully loaded	MaWF01			Diopatra cuprea	102			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062431	Successfully loaded	CHHS08			Diopatra cuprea	103			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062432	Successfully loaded	NcMV20			Diopatra cuprea	104			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062433	Successfully loaded	CHLS15			Diopatra cuprea	105			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062434	Successfully loaded	WBHS04			Diopatra cuprea	106			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062435	Successfully loaded	FlFP10			Diopatra cuprea	107			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062436	Successfully loaded	SHHS02			Diopatra cuprea	108			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062437	Successfully loaded	NcMV44			Diopatra cuprea	109			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062438	Successfully loaded	CHLS08			Diopatra cuprea	110			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062439	Successfully loaded	SHLS09			Diopatra cuprea	111			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062440	Successfully loaded	FlFP04			Diopatra cuprea	112			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062441	Successfully loaded	MaWF51			Diopatra cuprea	113			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062442	Successfully loaded	NcMV21			Diopatra cuprea	114			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062443	Successfully loaded	CHLS28			Diopatra cuprea	115			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062444	Successfully loaded	BBHS03			Diopatra cuprea	116			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062445	Successfully loaded	CHLS05			Diopatra cuprea	117			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062446	Successfully loaded	CHHS47			Diopatra cuprea	118			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062447	Successfully loaded	NcFR10			Diopatra cuprea	119			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062448	Successfully loaded	SHHS19			Diopatra cuprea	120			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062449	Successfully loaded	WBHS33			Diopatra cuprea	121			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062450	Successfully loaded	MaWF50			Diopatra cuprea	122			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062451	Successfully loaded	CHLS07			Diopatra cuprea	123			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062452	Successfully loaded	NcMV14			Diopatra cuprea	124			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062453	Successfully loaded	CHHS40			Diopatra cuprea	125			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062454	Successfully loaded	WBHS45			Diopatra cuprea	126			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062455	Successfully loaded	SHHS25			Diopatra cuprea	127			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062456	Successfully loaded	NcFR06			Diopatra cuprea	128			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062457	Successfully loaded	CHHS24			Diopatra cuprea	129			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062458	Successfully loaded	CHHS13			Diopatra cuprea	130			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062459	Successfully loaded	SHHS10			Diopatra cuprea	131			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062460	Successfully loaded	BRHS16			Diopatra cuprea	132			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062461	Successfully loaded	FlFP09			Diopatra cuprea	133			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062462	Successfully loaded	CHLS16			Diopatra cuprea	134			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062463	Successfully loaded	FlFP07			Diopatra cuprea	135			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062464	Successfully loaded	CHHS29			Diopatra cuprea	136			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062465	Successfully loaded	MaBH01			Diopatra cuprea	137			estuary	2009	USA:Barnstable Harbor Massachusetts	body														
+SAMN41062466	Successfully loaded	BBHS18			Diopatra cuprea	138			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062467	Successfully loaded	BRLS16			Diopatra cuprea	139			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062468	Successfully loaded	NjRG35			Diopatra cuprea	140			estuary	2009	USA:Rutgers New Jersey	body														
+SAMN41062469	Successfully loaded	VaWA24			Diopatra cuprea	141			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062470	Successfully loaded	CHLS25			Diopatra cuprea	142			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062471	Successfully loaded	NcFR08			Diopatra cuprea	143			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062472	Successfully loaded	BRLS01			Diopatra cuprea	144			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062473	Successfully loaded	WBHS60			Diopatra cuprea	145			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062474	Successfully loaded	WBHS15			Diopatra cuprea	146			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062475	Successfully loaded	BRLS14			Diopatra cuprea	147			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062476	Successfully loaded	MaWF53			Diopatra cuprea	148			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062477	Successfully loaded	BBHS27			Diopatra cuprea	149			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062478	Successfully loaded	MaBH22			Diopatra cuprea	150			estuary	2009	USA:Barnstable Harbor Massachusetts	body														
+SAMN41062479	Successfully loaded	CHHS02			Diopatra cuprea	151			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062480	Successfully loaded	NjRG34			Diopatra cuprea	152			estuary	2009	USA:Rutgers New Jersey	body														
+SAMN41062481	Successfully loaded	BBHS02			Diopatra cuprea	153			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062482	Successfully loaded	VaWA17			Diopatra cuprea	154			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062483	Successfully loaded	SHHS07			Diopatra cuprea	155			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062484	Successfully loaded	FlFP05			Diopatra cuprea	156			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062485	Successfully loaded	NcFR01			Diopatra cuprea	157			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062486	Successfully loaded	SHHS01			Diopatra cuprea	158			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062487	Successfully loaded	MaWF13			Diopatra cuprea	159			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062488	Successfully loaded	BRLS09			Diopatra cuprea	160			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062489	Successfully loaded	FlSB05			Diopatra cuprea	161			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062490	Successfully loaded	BRLS12			Diopatra cuprea	162			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062491	Successfully loaded	FlSB02			Diopatra cuprea	163			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062492	Successfully loaded	WBHS16			Diopatra cuprea	164			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062493	Successfully loaded	BBHS31			Diopatra cuprea	165			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062494	Successfully loaded	WBHS30			Diopatra cuprea	166			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062495	Successfully loaded	SHLS28			Diopatra cuprea	167			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062496	Successfully loaded	CHLS18			Diopatra cuprea	168			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062497	Successfully loaded	MaBH20			Diopatra cuprea	169			estuary	2009	USA:Barnstable Harbor Massachusetts	body														
+SAMN41062498	Successfully loaded	SHLS03			Diopatra cuprea	170			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062499	Successfully loaded	FlSB12			Diopatra cuprea	171			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062500	Successfully loaded	WBHS50			Diopatra cuprea	172			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062501	Successfully loaded	BRHS05			Diopatra cuprea	173			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062502	Successfully loaded	WBHS43			Diopatra cuprea	174			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062503	Successfully loaded	SHHS14			Diopatra cuprea	175			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062504	Successfully loaded	BRLS20			Diopatra cuprea	176			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062505	Successfully loaded	NjRG14			Diopatra cuprea	177			estuary	2009	USA:Rutgers New Jersey	body														
+SAMN41062506	Successfully loaded	BRLS06			Diopatra cuprea	178			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062507	Successfully loaded	BRHS19			Diopatra cuprea	179			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062508	Successfully loaded	SHLS32			Diopatra cuprea	180			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062509	Successfully loaded	NcFR11			Diopatra cuprea	181			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062510	Successfully loaded	CHHS37			Diopatra cuprea	182			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062511	Successfully loaded	CHHS52			Diopatra cuprea	183			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062512	Successfully loaded	NcFR02			Diopatra cuprea	184			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062513	Successfully loaded	WBHS29			Diopatra cuprea	185			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062514	Successfully loaded	NcFR04			Diopatra cuprea	186			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062515	Successfully loaded	CHLS24			Diopatra cuprea	187			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062516	Successfully loaded	BRHS04			Diopatra cuprea	188			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062517	Successfully loaded	SHHS15			Diopatra cuprea	189			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062518	Successfully loaded	FlSB01			Diopatra cuprea	190			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062519	Successfully loaded	VaWA29			Diopatra cuprea	191			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062520	Successfully loaded	NcMV15			Diopatra cuprea	192			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062521	Successfully loaded	BBHS32			Diopatra cuprea	193			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062522	Successfully loaded	MaWF54			Diopatra cuprea	194			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062523	Successfully loaded	CHLS13			Diopatra cuprea	195			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062524	Successfully loaded	BBHS34			Diopatra cuprea	196			estuary	2022	USA:Bulls Bay South Carolina	body														
+SAMN41062525	Successfully loaded	VaWA02			Diopatra cuprea	197			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062526	Successfully loaded	BRLS15			Diopatra cuprea	198			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062527	Successfully loaded	CHHS03			Diopatra cuprea	199			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062528	Successfully loaded	BRHS09			Diopatra cuprea	200			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062529	Successfully loaded	WBHS38			Diopatra cuprea	201			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062530	Successfully loaded	FlSB16			Diopatra cuprea	202			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062531	Successfully loaded	CHHS05			Diopatra cuprea	203			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062532	Successfully loaded	SHHS03			Diopatra cuprea	204			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
+SAMN41062533	Successfully loaded	FlSB14			Diopatra cuprea	205			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062534	Successfully loaded	NcFR12			Diopatra cuprea	206			estuary	2012	USA:North River Estuary North Carolina	body														
+SAMN41062535	Successfully loaded	CHHS10			Diopatra cuprea	207			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062536	Successfully loaded	VaWA03			Diopatra cuprea	208			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062537	Successfully loaded	NcMV11			Diopatra cuprea	209			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062538	Successfully loaded	FlAM04			Diopatra cuprea	210			estuary	2009	USA:Amelia Island Florida	body														
+SAMN41062539	Successfully loaded	NjRG16			Diopatra cuprea	211			estuary	2009	USA:Rutgers New Jersey	body														
+SAMN41062540	Successfully loaded	MaDB04			Diopatra cuprea	212			estuary	2009	USA:Duxbury Massachusetts	body														
+SAMN41062541	Successfully loaded	NcMV43			Diopatra cuprea	213			estuary	2012	USA:Mitchells Village North Carolina	body														
+SAMN41062542	Successfully loaded	BRLS10			Diopatra cuprea	214			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062543	Successfully loaded	CHHS16			Diopatra cuprea	215			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062544	Successfully loaded	MaWF52			Diopatra cuprea	216			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062545	Successfully loaded	CHHS48			Diopatra cuprea	217			estuary	2022	USA:Charleston Harbor (Seaward) South Carolina	body														
+SAMN41062546	Successfully loaded	VaWA07			Diopatra cuprea	218			estuary	2009	USA:Wachapreague Virginia	body														
+SAMN41062547	Successfully loaded	CHLS04			Diopatra cuprea	219			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062548	Successfully loaded	MaWF56			Diopatra cuprea	220			estuary	2012	USA:Wellfleet Massachusetts	body														
+SAMN41062549	Successfully loaded	WBHS44			Diopatra cuprea	221			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062550	Successfully loaded	FlSB08			Diopatra cuprea	222			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062551	Successfully loaded	WBHS36			Diopatra cuprea	223			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062552	Successfully loaded	CHLS29			Diopatra cuprea	224			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062553	Successfully loaded	FlSB17			Diopatra cuprea	225			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062554	Successfully loaded	BRLS18			Diopatra cuprea	226			estuary	2022	USA:Broad River (Landward) South Carolina	body														
+SAMN41062555	Successfully loaded	FlFP03			Diopatra cuprea	227			estuary	2009	USA:Fort Pierce Florida	body														
+SAMN41062556	Successfully loaded	SHLS26			Diopatra cuprea	228			estuary	2022	USA:St. Helena (Landward) South Carolina	body														
+SAMN41062557	Successfully loaded	CHLS30			Diopatra cuprea	229			estuary	2022	USA:Charleston Harbor (Landward) South Carolina	body														
+SAMN41062558	Successfully loaded	WBHS56			Diopatra cuprea	230			estuary	2022	USA:Winyah Bay South Carolina	body														
+SAMN41062559	Successfully loaded	BRHS20			Diopatra cuprea	231			estuary	2022	USA:Broad River (Seaward) South Carolina	body														
+SAMN41062560	Successfully loaded	FlSB09			Diopatra cuprea	232			estuary	2012	USA:St. Teresa Beach Florida	body														
+SAMN41062561	Successfully loaded	SHHS06			Diopatra cuprea	233			estuary	2022	USA:St. Helena (Seaward) South Carolina	body														
